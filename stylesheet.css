@@ -1,0 +1,30 @@
+html{
+    font-family: tahoma;
+}
+body{
+    background-image: url(https://static.pexels.com/photos/355770/pexels-photo-355770.jpeg);
+}
+#headshot{
+    display:inline-block;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    bottom: 300px;
+}
+div{
+    height: 350px;
+}
+H1{
+    display: flex;
+    justify-content:flex-start;
+    font-size:100px;
+    width: 25%;
+}
+
+#elevator_pitch{
+
+}
